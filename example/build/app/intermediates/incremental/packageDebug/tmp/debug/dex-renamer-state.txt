@@ -1,0 +1,4 @@
+#Tue Dec 18 08:37:03 BRT 2018
+base.0=/home/ismael/AndroidStudioProjects/video/example/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

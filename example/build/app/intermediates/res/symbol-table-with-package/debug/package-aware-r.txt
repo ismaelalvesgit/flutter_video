@@ -1,0 +1,5 @@
+io.flutter.plugins.videoplayerexample
+drawable launch_background
+mipmap ic_launcher
+style LaunchTheme
+xml network_security_config
